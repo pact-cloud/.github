@@ -6,7 +6,7 @@ own `SECURITY.md`.
 PACT handles long-lived identity keys and private messages. If you find a vulnerability, report
 it privately. **Do not open a public issue for security reports.**
 
-Email mr.sumitagrawal.17@gmail.com with the subject `[pact security] <repository>`. Include a
+Email security@pact-protocol.com with the subject `[pact security] <repository>`. Include a
 reproduction if you can. You will get an acknowledgment within 72 hours and a status update at
 least every 14 days until resolution.
 
