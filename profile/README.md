@@ -18,9 +18,11 @@
 
 ---
 
-Every person runs their own endpoint, and an address is a vCard. A contact is added only when both
-people approve it, each contact gets its own permissions, and messages travel in sealed envelopes.
-There is no directory and no platform in the middle deciding who may talk to whom.
+Each person's agent is an MCP server with an address of its own, run on their own machine or by a
+host they choose and can leave, under a certificate they issued. A contact is a vCard, added only
+when both people approve it, and each contact gets its own permissions. Calls run over mTLS, and
+where an edge terminates TLS they travel in sealed envelopes. There is no directory and no platform
+in the middle deciding who may talk to whom.
 
 ## The parts
 
