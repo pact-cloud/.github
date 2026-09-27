@@ -33,8 +33,9 @@ There is no directory and no platform in the middle deciding who may talk to who
 </picture>
 </td>
 <td valign="top">
-The specification: identity and mTLS, contact cards, invites, the MCP tool surface, permissions,
-relay mode, sealed envelopes and conformance, with its test vectors and the whitepaper build.
+The specification: identity as a certificate the person issues, contact cards, invites, the MCP
+tool surface, permissions, hosting, sealed envelopes and conformance, with its test vectors and the
+whitepaper build.
 <br><a href="https://pact-protocol.com">Read the whitepaper →</a>
 </td>
 </tr>
